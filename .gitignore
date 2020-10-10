@@ -1,0 +1,12 @@
+#檔案名稱 .gitignore
+
+#忽略測試檔
+test.py
+
+#忽略chromedriver.exe(每個人版本不同)
+chromedriver.exe
+
+#忽略 _pycache_
+__pycache__/*.*
+
+
