@@ -9,4 +9,7 @@ chromedriver.exe
 #忽略 _pycache_
 __pycache__/*.*
 
+#忽略資料檔
+goods.csv
+
 
